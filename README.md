@@ -32,26 +32,24 @@ Adds some improvements on top of LemonPI Manage, like cloning a dynamic input.
 
 ### How to use
 
-To use the Manage Manager, you need to install [https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija](CJS for Chrome) first. Afterwards, visit manage.lemonpi.io and click the blue *cjs* button in the top right corner. Then paste the following script in the textarea:
+To use the Manage Manager, you need to install [CJS for Chrome](https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija) first. Afterwards, visit manage.lemonpi.io and click the blue **cjs** button in the top right corner. Then paste the following script in the textarea:
 
 ```js
 var e=document.createElement('script');e.src='https://cdn.greenhousegroup.com/ghg-nl/manage-manager/script.js',document.body.appendChild(e);
 ```
 
+Press **save**.
+
 Done!
 
 ## [Celtra-AppNexus parser](https://meh-celtra-appnexus-parser.herokuapp.com/)
 
-For Unilever, the (huge amount) creatives have to be build in Celtra. But we want to run the creatives in AppNexus. Because there is no 1-to-1 integration, the specialist had to manually import the Celtra tags in AppNexus. We created a easy convertor that changed a 2-hour job to a 2-minute job.
-
-## [Wrike ID redirect page](https://wrike.greenhousegroup.com/)
-
-Quickly open a Wrike task from a Wrike ID.
-
-## Studiofier
-
-Transform an old Splash! file to a LemonPI Studio file by using the Studiofier.
+For Unilever, the (huge amount) creatives have to be built in Celtra, but we want to run the creatives in AppNexus. Because there is no 1-to-1 integration, the specialist had to manually import the Celtra tags in AppNexus. We created an easy converter that changed a 2-hour job to a 2-minute job.
 
 ## [Temporary Uploader](https://ghg-temporary-uploader.herokuapp.com/)
 
 When using videos in display, you need a video URL while developing. The Temporary Uploader will do just that. (ask a MEHmber for the password)
+
+## [Wrike ID redirect page](https://wrike.greenhousegroup.com/)
+
+Quickly open a Wrike task from a Wrike ID.
