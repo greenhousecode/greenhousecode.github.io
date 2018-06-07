@@ -1,6 +1,10 @@
 # MEH Projects
 
-One reference for all the MEH tools out there.
+One reference for all MEH tools out there.
+
+## [Edje](https://ch-edje.herokuapp.com/)
+
+The MVP for a creative workflow platform, so we can easily send (dynamic) previews of creative material to clients and gather their feedback. It has a smooth integration with Wrike so it doesn’t feel like ‘yet another platform’.
 
 ## [Richifier](https://ghg-richifier-live.herokuapp.com/)
 
@@ -13,14 +17,6 @@ When using LemonPI to export creatives to a DSP is not an option, you can use th
 ## [Scalifier](https://ch-scalifier.herokuapp.com/)
 
 The Scalifier allows for super-fast resizing of creatives. Even though it sounds like a minor task, it actually circumvents many mundane manual steps which quickly add up in hours.
-
-## [Edje](https://ch-edje.herokuapp.com/)
-
-The MVP for a creative workflow platform, so we can easily send (dynamic) previews of creative material to clients and gather their feedback. It has a smooth integration with Wrike so it doesn’t feel like ‘yet another platform’.
-
-## [Mobile Wall](https://bit.ly/bmiwall2)
-
-Quickly open URLs on other devices by using the Mobile Wall.
 
 ## Template Campaign Laucher (TCL)
 
@@ -41,6 +37,10 @@ var e=document.createElement('script');e.src='https://cdn.greenhousegroup.com/gh
 Press **save**.
 
 Done!
+
+## [Mobile Wall](https://bit.ly/bmiwall2)
+
+Quickly open URLs on other devices by using the Mobile Wall.
 
 ## [Celtra-AppNexus parser](https://meh-celtra-appnexus-parser.herokuapp.com/)
 
