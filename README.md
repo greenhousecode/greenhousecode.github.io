@@ -1,4 +1,4 @@
-Quick reference for all MEH tools out there!
+*Quick reference for all MEH tools out there!*
 
 ## [Edje](https://ch-edje.herokuapp.com/)
 
