@@ -24,6 +24,10 @@ DOOHifier is a webapp for Creative Hub to make initialised LemonPI Studio-creati
 
 Makes in-app testing of LemonPI creatives flawless.
 
+## [Creating a Contentful model for LemonPI](https://docs.google.com/document/d/1Vyn5wKO7TH-lTXwbSnN6HNNGjJHsFE5hFlch81AMkO4/edit)
+
+This guide explains how you can create and configure a new Contentful model for usage with LemonPI (Smart LemonPI Pixel dynamic input).
+
 ## Template Campaign Laucher (TCL)
 
 Coming soon!
