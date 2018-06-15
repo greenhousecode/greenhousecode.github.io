@@ -58,7 +58,7 @@ For Unilever, the (huge amount) creatives have to be built in Celtra, but we wan
 
 # [Temporary Uploader](https://ghg-temporary-uploader.herokuapp.com/)
 
-When using videos in display, you need a video URL while developing. The Temporary Uploader will do just that. (ask a MEHmber for the password)
+When using external assets like videos or images in display, you need URLs while developing. The Temporary Uploader will do just that. (ask a MEHmber for the password)
 
 # [Wrike ID redirect page](https://wrike.greenhousegroup.com/)
 
