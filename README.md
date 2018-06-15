@@ -58,14 +58,16 @@ For Unilever, the (huge amount) creatives have to be built in Celtra, but we wan
 
 # [Temporary Uploader](https://ghg-temporary-uploader.herokuapp.com/)
 
-<div style="overflow: auto;">
-  <img style="float: right; box-shadow: 0em 0.3em 1em rgba(0, 0, 0, 0.2);" src="img/temporary-uploader.jpg" width="160" height="160">
+<img style="float: right; box-shadow: 0em 0.3em 1em rgba(0, 0, 0, 0.2);" src="img/temporary-uploader.jpg" width="160" height="160">
+
+<div style="clear: both;">
   When using videos in display, you need a video URL while developing. The Temporary Uploader will do just that. (ask a MEHmber for the password)
 </div>
 
 # [Wrike ID redirect page](https://wrike.greenhousegroup.com/)
 
-<div style="overflow: auto;">
-  <img style="float: right; box-shadow: 0em 0.3em 1em rgba(0, 0, 0, 0.2);" src="img/wrike-id-redirect.jpg" width="160" height="160">
+<img style="float: right; box-shadow: 0em 0.3em 1em rgba(0, 0, 0, 0.2);" src="img/wrike-id-redirect.jpg" width="160" height="160">
+
+<div style="clear: both;">
   Quickly open a Wrike task from a Wrike ID like "CZ-123".
 </div>
