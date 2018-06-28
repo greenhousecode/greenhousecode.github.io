@@ -20,6 +20,10 @@ The Scalifier allows for super-fast resizing of creatives. Even though it sounds
 
 DOOHifier is a webapp for Creative Hub to make initialised LemonPI Studio-creatives for DOOH from the required screen specifications.
 
+# Ghostifier
+
+Coming soon!
+
 # [In-app Tester](https://meh-inapp-testing.herokuapp.com/add.html)
 
 Makes in-app testing of LemonPI creatives flawless.
@@ -64,4 +68,4 @@ When using external assets like videos or images in display, you need URLs while
 
 <img src="img/wrike-id-redirect.jpg" style="box-shadow: 0em 0.3em 1em rgba(0, 0, 0, 0.1);">
 
-Quickly open a Wrike task from a Wrike ID like "CZ-123".
+Quickly open a Wrike task from a Wrike ID, like "CZ-123".
