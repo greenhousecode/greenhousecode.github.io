@@ -54,6 +54,10 @@ Done!
 
 # [Mobile Wall](https://bit.ly/bmiwall2)
 
+<a href="https://bit.ly/bmiwall2" title="Mobile Wall">
+  <img src="img/mobile-wall.jpg" style="box-shadow: 0em 0.3em 1em rgba(0, 0, 0, 0.1);">
+</a>
+
 Quickly open URLs on other devices by using the Mobile Wall.
 
 # [Celtra-AppNexus parser](https://meh-celtra-appnexus-parser.herokuapp.com/)
@@ -66,6 +70,8 @@ When using external assets like videos or images in display, you need URLs while
 
 # [Wrike ID redirect page](https://wrike.greenhousegroup.com/)
 
-<img src="img/wrike-id-redirect.jpg" style="box-shadow: 0em 0.3em 1em rgba(0, 0, 0, 0.1);">
+<a href="https://wrike.greenhousegroup.com/" title="Wrike ID redirect page">
+  <img src="img/wrike-id-redirect.jpg" style="box-shadow: 0em 0.3em 1em rgba(0, 0, 0, 0.1);">
+</a>
 
 Quickly open a Wrike task from a Wrike ID, like "CZ-123".
