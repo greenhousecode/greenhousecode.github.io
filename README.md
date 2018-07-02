@@ -1,6 +1,6 @@
 *Quick reference for all MEH tools out there!*
 
-# [Edje](https://ch-edje.herokuapp.com/)
+# [Edje](http://edje.beta.consumercentric.eu)
 
 The MVP for a creative workflow platform, so we can easily send (dynamic) previews of creative material to clients and gather their feedback. It has a smooth integration with Wrike so it doesn’t feel like ‘yet another platform’.
 
