@@ -4,6 +4,20 @@
 
 The MVP for a creative workflow platform, so we can easily send (dynamic) previews of creative material to clients and gather their feedback. It has a smooth integration with Wrike so it doesn’t feel like ‘yet another platform’.
 
+### How to use
+
+You can only use Edje through Wrike. In order to extend Wrike for the use with Edje, you need to install [CJS for Chrome](https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija) first. Afterwards, visit Wrike (in your browser, not the app) and click the blue **cjs** button in the top right corner. Then paste the following script in the textarea:
+
+```js
+if (typeof $ !== 'unefined') {
+    $.getScript('https://s3.eu-central-1.amazonaws.com/ghg-tools/ghg-edje/wrike-edje.js');
+}
+```
+
+Press **save**.
+
+Done! You should now see an 'Add creative' button to every task in Wrike. In order to integrate LemonPI bannersets, please also install the [Manage Manager](https://meh.greenhousegroup.com/#manage-manager).
+
 # [Richifier](https://ghg-richifier-live.herokuapp.com/)
 
 This will add the chosen rich media template to your LemonPI Studio creative zip, which makes it compatible to upload to Weborama.
