@@ -89,3 +89,7 @@ When using external assets like videos or images in display, you need URLs while
 </a>
 
 Quickly open a Wrike task from a Wrike ID, like "CZ-123".
+
+# [Optinoud](https://www.npmjs.com/package/generator-optinoud)
+
+Optinoud lets you write ES6+ and SASS snippets, while transpiling to ES5+CSS, and live injecting it into a specified website.
