@@ -18,6 +18,10 @@ Press **save**.
 
 Done! You should now see an 'Add creative' button to every task in Wrike. In order to integrate LemonPI bannersets, please also install the [Manage Manager](https://meh.greenhousegroup.com/#manage-manager).
 
+# [Hostifier](https://meh-hostifier.herokuapp.com/)
+
+Web app for hosting static assets on cdn.greenhousegroup.com
+
 # [Richifier](https://ghg-richifier-live.herokuapp.com/)
 
 This will add the chosen rich media template to your LemonPI Studio creative zip, which makes it compatible to upload to Weborama.
