@@ -9,7 +9,7 @@ The MVP for a creative workflow platform, so we can easily send (dynamic) previe
 You can only use Edje through Wrike. In order to extend Wrike for the use with Edje, you need to install [CJS for Chrome](https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija) first. Afterwards, visit Wrike (in your browser, not the app) and click the blue **cjs** button in the top right corner. Then paste the following script in the textarea:
 
 ```js
-if (typeof $ !== 'unefined') {
+if (typeof $ !== 'undefined') {
     $.getScript('https://s3.eu-central-1.amazonaws.com/ghg-tools/ghg-edje/wrike-edje.js');
 }
 ```
