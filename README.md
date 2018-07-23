@@ -9,9 +9,7 @@ The MVP for a creative workflow platform, so we can easily send (dynamic) previe
 You can only use Edje through Wrike. In order to extend Wrike for the use with Edje, you need to install [CJS for Chrome](https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija) first. Afterwards, visit Wrike (in your browser, not the app) and click the blue **cjs** button in the top right corner. Then paste the following script in the textarea:
 
 ```js
-if (typeof $ !== 'undefined') {
-    $.getScript('https://s3.eu-central-1.amazonaws.com/ghg-tools/ghg-edje/wrike-edje.js');
-}
+var e=document.createElement('script');e.src='https://s3.eu-central-1.amazonaws.com/ghg-tools/ghg-edje/wrike-edje.js',document.body.appendChild(e);
 ```
 
 Press **save**.
@@ -72,10 +70,6 @@ Done!
 
 # [Mobile Wall](https://bit.ly/bmiwall2)
 
-<a href="https://bit.ly/bmiwall2" title="Mobile Wall">
-  <img src="img/mobile-wall.jpg" style="box-shadow: 0em 0.3em 1em rgba(0, 0, 0, 0.1);">
-</a>
-
 Quickly open URLs on other devices by using the Mobile Wall.
 
 # [Celtra-AppNexus parser](https://meh-celtra-appnexus-parser.herokuapp.com/)
@@ -87,10 +81,6 @@ For Unilever, the (huge amount) creatives have to be built in Celtra, but we wan
 When using external assets like videos or images in display, you need URLs while developing. The Temporary Uploader will do just that. (ask a MEHmber for the password)
 
 # [Wrike ID redirect page](https://wrike.greenhousegroup.com/)
-
-<a href="https://wrike.greenhousegroup.com/" title="Wrike ID redirect page">
-  <img src="img/wrike-id-redirect.jpg" style="box-shadow: 0em 0.3em 1em rgba(0, 0, 0, 0.1);">
-</a>
 
 Quickly open a Wrike task from a Wrike ID, like "CZ-123".
 
