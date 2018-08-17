@@ -32,6 +32,11 @@ When using LemonPI to export creatives to a DSP is not an option, you can use th
 
 The Scalifier allows for super-fast resizing of creatives. Even though it sounds like a minor task, it actually circumvents many mundane manual steps which quickly add up in hours.
 
+# [Clicktrackifier](http://clicktrackifier.greenhousegroup.com/)
+
+The Cicktrackifier enables a clicktracker per size in LemonPI Manage.
+
+
 # [DOOHifier](https://ch-doohifier.herokuapp.com/)
 
 DOOHifier is a webapp for Creative Hub to make initialised LemonPI Studio-creatives for DOOH from the required screen specifications.
