@@ -36,6 +36,9 @@ The Scalifier allows for super-fast resizing of creatives. Even though it sounds
 
 The Cicktrackifier enables a clicktracker per size in LemonPI Manage.
 
+# [LemonPI Feed Importer](https://ghg-lemonpi-feed-import-live.herokuapp.com)
+
+Use your LemonPI account to import product feeds, and use them as a Smart Pixel Dynamic Input.
 
 # [DOOHifier](https://ch-doohifier.herokuapp.com/)
 
