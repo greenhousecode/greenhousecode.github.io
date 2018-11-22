@@ -18,7 +18,6 @@
 * [Celtra-AppNexus Parser](#celtraappnexusparser)
 * [Temporary Uploader](#temporaryuploader)
 * [Wrike ID redirect page](#wrikeidredirect)
-* [Wrike ID redirect page](#wrikeidredirect)
 * [Optinoud](#optinoud)
 
 # Projects
