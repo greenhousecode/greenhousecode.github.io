@@ -1,6 +1,29 @@
 *Quick reference for all MEH tools out there!*
 
-# [Edje](http://edje.beta.consumercentric.eu)
+# Quick jump list
+
+* [Edje](#edje)
+* [Hostifier](#hostifier)
+* [Richifier](#richifier)
+* [Staticifier](#staticifier)
+* [Scalifier](#scalifier)
+* [Clicktrackifier](#clicktrackifier)
+* [LemonPI feed importer](#lemonpifeedimporter)
+* [DOOHifier](#doohifier)
+* [In-App tester](#inapptester)
+* [Creating a Contentful model for LemonPI](#contentfulforlemonpi)
+* [Template Campaign Laucher (coming soon)](#templatecampaignlauncher)
+* [Manage Manager](#managemanager)
+* [Mobile Wall](#mobilewall)
+* [Celtra-AppNexus Parser](#celtraappnexusparser)
+* [Temporary Uploader](#temporaryuploader)
+* [Wrike ID redirect page](#wrikeidredirect)
+* [Wrike ID redirect page](#wrikeidredirect)
+* [Optinoud](#optinoud)
+
+# Projects
+
+## <a name="edje"></a>[Edje](http://edje.beta.consumercentric.eu)
 
 The MVP for a creative workflow platform, so we can easily send (dynamic) previews of creative material to clients and gather their feedback. It has a smooth integration with Wrike so it doesn’t feel like ‘yet another platform’.
 
@@ -16,51 +39,51 @@ Press **save**.
 
 Done! You should now see an 'Add creative' button to every task in Wrike. In order to integrate LemonPI bannersets, please also install the [Manage Manager](https://meh.greenhousegroup.com/#manage-manager).
 
-# [Hostifier](https://meh-hostifier.herokuapp.com/)
+## <a name="hostifier"></a>[Hostifier](https://meh-hostifier.herokuapp.com/)
 
 Web app for hosting static assets on cdn.greenhousegroup.com
 
-# [Richifier](https://ghg-richifier-live.herokuapp.com/)
+## <a name="richifier"></a>[Richifier](https://ghg-richifier-live.herokuapp.com/)
 
 This will add the chosen rich media template to your LemonPI Studio creative zip, which makes it compatible to upload to Weborama.
 
-# [Staticifier](https://ghg-staticifier-live.herokuapp.com/)
+## <a name="staticifier"></a>[Staticifier](https://ghg-staticifier-live.herokuapp.com/)
 
 When using LemonPI to export creatives to a DSP is not an option, you can use the Staticifier to strip all Greenhouse Group related dependencies from a LemonPI Studio creative zip. This makes it suitable to deliver creatives to agencies that want to serve these without LemonPI.
 
-# [Scalifier](https://ch-scalifier.herokuapp.com/)
+## <a name="scalifier"></a>[Scalifier](https://ch-scalifier.herokuapp.com/)
 
 The Scalifier allows for super-fast resizing of creatives. Even though it sounds like a minor task, it actually circumvents many mundane manual steps which quickly add up in hours.
 
-# [Clicktrackifier](http://clicktrackifier.greenhousegroup.com/)
+## <a name="clicktrackifier"></a>[Clicktrackifier](http://clicktrackifier.greenhousegroup.com/)
 
 The Cicktrackifier enables a clicktracker per size in LemonPI Manage.
 
-# [LemonPI Feed Importer](https://ghg-lemonpi-feed-import-live.herokuapp.com)
+## <a name="lemonpifeedimporter"></a>[LemonPI Feed Importer](https://ghg-lemonpi-feed-import-live.herokuapp.com)
 
 Use your LemonPI account to import product feeds, and use them as a Smart Pixel Dynamic Input.
 
-# [DOOHifier](https://ch-doohifier.herokuapp.com/)
+## <a name="doohifier"></a>[DOOHifier](https://ch-doohifier.herokuapp.com/)
 
 DOOHifier is a webapp for Creative Hub to make initialised LemonPI Studio-creatives for DOOH from the required screen specifications.
 
-# Ghostifier
+## <a name="ghostifier"></a>Ghostifier
 
 Coming soon!
 
-# [In-app Tester](https://meh-inapp-testing.herokuapp.com/add.html)
+## <a name="inapptester"></a>[In-app Tester](https://meh-inapp-testing.herokuapp.com/add.html)
 
 Makes in-app testing of LemonPI creatives flawless.
 
-# [Creating a Contentful model for LemonPI](https://docs.google.com/document/d/1Vyn5wKO7TH-lTXwbSnN6HNNGjJHsFE5hFlch81AMkO4/edit)
+## <a name="contentfulforlemonpi"></a>[Creating a Contentful model for LemonPI](https://docs.google.com/document/d/1Vyn5wKO7TH-lTXwbSnN6HNNGjJHsFE5hFlch81AMkO4/edit)
 
 This guide explains how you can create and configure a new Contentful model for usage with LemonPI (Smart LemonPI Pixel dynamic input).
 
-# Template Campaign Laucher (TCL)
+## <a name="templatecampaignlauncher"></a>Template Campaign Laucher (TCL)
 
 Coming soon!
 
-# Manage Manager
+## <a name="managemanager"></a>Manage Manager
 
 Adds some improvements on top of LemonPI Manage, like cloning a dynamic input.
 
@@ -76,22 +99,22 @@ Press **save**.
 
 Done!
 
-# [Mobile Wall](https://bit.ly/bmiwall2)
+## <a name="mobilewall"></a>[Mobile Wall](https://bit.ly/bmiwall2)
 
 Quickly open URLs on other devices by using the Mobile Wall.
 
-# [Celtra-AppNexus parser](https://meh-celtra-appnexus-parser.herokuapp.com/)
+## <a name="celtraappnexusparser"></a>[Celtra-AppNexus parser](https://meh-celtra-appnexus-parser.herokuapp.com/)
 
 For Unilever, the (huge amount) creatives have to be built in Celtra, but we want to run the creatives in AppNexus. Because there is no 1-to-1 integration, the specialist had to manually import the Celtra tags in AppNexus. We created an easy converter that changed a 2-hour job to a 2-minute job.
 
-# [Temporary Uploader](https://ghg-temporary-uploader.herokuapp.com/)
+## <a name="temporaryuploader"></a>[Temporary Uploader](https://ghg-temporary-uploader.herokuapp.com/)
 
 When using external assets like videos or images in display, you need URLs while developing. The Temporary Uploader will do just that. (ask a MEHmber for the password)
 
-# [Wrike ID redirect page](https://wrike.greenhousegroup.com/)
+## <a name="wrikeidredirect"></a>[Wrike ID redirect page](https://wrike.greenhousegroup.com/)
 
 Quickly open a Wrike task from a Wrike ID, like "CZ-123".
 
-# [Optinoud](https://www.npmjs.com/package/generator-optinoud)
+## <a name="optinoud"></a>[Optinoud](https://www.npmjs.com/package/generator-optinoud)
 
 Optinoud lets you write ES6+ and SASS snippets, while transpiling to ES5+CSS, and live injecting it into a specified website.
