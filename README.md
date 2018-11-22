@@ -22,7 +22,7 @@
 
 # Projects
 
-## <a name="edje"></a>[Edje](http://edje.beta.consumercentric.eu)
+## <a name="edje"></a>[Edje](http://edje.greenhousegroup.com)
 
 The MVP for a creative workflow platform, so we can easily send (dynamic) previews of creative material to clients and gather their feedback. It has a smooth integration with Wrike so it doesn’t feel like ‘yet another platform’.
 
