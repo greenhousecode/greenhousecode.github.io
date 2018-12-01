@@ -78,9 +78,9 @@ Makes in-app testing of LemonPI creatives flawless.
 
 This guide explains how you can create and configure a new Contentful model for usage with LemonPI (Smart LemonPI Pixel dynamic input).
 
-## <a name="templatecampaignlauncher"></a>Template Campaign Laucher (TCL)
+## <a name="templatecampaignlauncher"></a>[The Campaign Laucher (TCL)](http://tcl.meh.greenhousegroup.com)
 
-Coming soon!
+Platform to launch PBU campaigns fast and easy.
 
 ## <a name="managemanager"></a>Manage Manager
 
