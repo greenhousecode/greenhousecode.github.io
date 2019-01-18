@@ -1,6 +1,6 @@
-> Quick reference for all MEH tools out there!*
+> Quick reference for all MEH tools out there!
 
-# Sitemap
+### Sitemap
 
 * [Edje](#edje)
 * [Hostifier](#hostifier)
