@@ -9,7 +9,8 @@
 * [Scalifier](#scalifier)
 * [Clicktrackifier](#clicktrackifier)
 * [LemonPI feed importer](#lemonpifeedimporter)
-* [DOOHifier](#doohifier)
+* [DOOH-ifier](#dooh-ifier)
+* [GSP-ifier](#gsp-ifier)
 * [In-App tester](#inapptester)
 * [Creating a Contentful model for LemonPI](#contentfulforlemonpi)
 * [Template Campaign Laucher (coming soon)](#templatecampaignlauncher)
@@ -62,13 +63,13 @@ The Cicktrackifier enables a clicktracker per size in LemonPI Manage.
 
 Use your LemonPI account to import product feeds, and use them as a Smart Pixel Dynamic Input.
 
-## <a name="doohifier"></a>[DOOHifier](https://ch-doohifier.herokuapp.com/)
+## <a name="dooh-ifier"></a>[DOOH-ifier](https://ch-doohifier.herokuapp.com/)
 
-DOOHifier is a webapp for Creative Hub to make initialised LemonPI Studio-creatives for DOOH from the required screen specifications.
+DOOH-ifier is a webapp for Creative Hub to make initialised LemonPI Studio-creatives for DOOH from the required screen specifications.
 
-## <a name="ghostifier"></a>Ghostifier
+## <a name="gsp-ifier"></a>[GSP-ifier](https://meh-gspifier.herokuapp.com/)
 
-Coming soon!
+Generate single-image GSPs on the fly.
 
 ## <a name="inapptester"></a>[In-app Tester](https://meh-inapp-testing.herokuapp.com/add.html)
 
