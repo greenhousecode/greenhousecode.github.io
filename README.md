@@ -11,6 +11,7 @@
 * [LemonPI feed importer](#lemonpifeedimporter)
 * [DOOH-ifier](#dooh-ifier)
 * [GSP-ifier](#gsp-ifier)
+* [Anna](#anna)
 * [In-App tester](#inapptester)
 * [Creating a Contentful model for LemonPI](#contentfulforlemonpi)
 * [Template Campaign Laucher (coming soon)](#templatecampaignlauncher)
@@ -70,6 +71,10 @@ DOOH-ifier is a webapp for Creative Hub to make initialised LemonPI Studio-creat
 ## <a name="gsp-ifier"></a>[GSP-ifier](https://meh-gspifier.herokuapp.com/)
 
 Generate single-image GSPs on the fly.
+
+## <a name="anna"></a>Anna
+
+Create off-site A/B tests through Wrike. Just add and tick the "Off-site test" custom field to your task in Wrike, and change the status to "Live". Anna will report and notify you about test data significance.
 
 ## <a name="inapptester"></a>[In-app Tester](https://meh-inapp-testing.herokuapp.com/add.html)
 
