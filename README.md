@@ -74,7 +74,7 @@ Generate single-image GSPs on the fly.
 
 ## <a name="anna"></a>Anna
 
-Create off-site A/B tests through Wrike. Just add and tick the "Off-site test" custom field to your task in Wrike, and change the status to "Live". Anna will report and notify you about test data significance.
+Create off-site A/B tests through Wrike. Just add and tick the "Off-site test" custom field to your task in Wrike, add the "Default Creative ID" and "Variant Creative ID" fields to your task and fill them, then and change the status to "Live". Anna will report and notify you about test data significance.
 
 ## <a name="inapptester"></a>[In-app Tester](https://meh-inapp-testing.herokuapp.com/add.html)
 
