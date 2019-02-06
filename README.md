@@ -1,6 +1,6 @@
 > Quick reference for all MEH tools out there!
 
-### Sitemap
+# Sitemap
 
 * [Edje](#edje)
 * [Hostifier](#hostifier)
@@ -21,8 +21,6 @@
 * [Temporary Uploader](#temporaryuploader)
 * [Wrike ID redirect page](#wrikeidredirect)
 * [Optinoud](#optinoud)
-
-# Projects
 
 ## <a name="edje"></a>[Edje](http://edje.greenhousegroup.com)
 
