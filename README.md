@@ -38,7 +38,7 @@ Press **save**.
 
 Done! You should now see an 'Add creative' button to every task in Wrike. In order to integrate LemonPI bannersets, please also install the [Manage Manager](https://meh.greenhousegroup.com/#manage-manager).
 
-## <a name="hostifier"></a>[Hostifier](https://meh-hostifier.herokuapp.com/)
+## <a name="hostifier"></a>[Hostifier](https://hostifier.meh.greenhousegroup.com)
 
 Web app for hosting static assets on cdn.greenhousegroup.com
 
