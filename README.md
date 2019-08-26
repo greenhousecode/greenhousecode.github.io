@@ -110,7 +110,7 @@ Quickly open URLs on other devices by using the Mobile Wall.
 
 For Unilever, the (huge amount) creatives have to be built in Celtra, but we want to run the creatives in AppNexus. Because there is no 1-to-1 integration, the specialist had to manually import the Celtra tags in AppNexus. We created an easy converter that changed a 2-hour job to a 2-minute job.
 
-## <a name="temporaryuploader"></a>[Temporary Uploader](https://ghg-temporary-uploader.herokuapp.com/)
+## <a name="temporaryuploader"></a>[Temporary Uploader](https://temporary-asset-hoster.meh.greenhousegroup.com/)
 
 When using external assets like videos or images in display, you need URLs while developing. The Temporary Uploader will do just that. (ask a MEHmber for the password)
 
