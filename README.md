@@ -1,5 +1,9 @@
 > Quick reference for all MEH tools out there!
 
+# Greenhouse Chrome Extension
+We've moved most of the documentation of MEH tools to the [Greenhouse Wiki](https://wiki.greenhousegroup.com:8443/display/GCH), the information listed below might be outdated! To quickly open up a tool, make a search using the [Greenhouse Chrome Extension](https://chrome.google.com/webstore/detail/greenhouse/iiamfogljhmfpcaalfblodljjnnhkkem).
+
+
 # Sitemap
 
 * [Edje](#edje)
@@ -28,33 +32,21 @@ The MVP for a creative workflow platform, so we can easily send (dynamic) previe
 
 ### How to use
 
-You can only use Edje through Wrike. In order to extend Wrike for the use with Edje, you need to install [CJS for Chrome](https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija) first. Afterwards, visit Wrike (in your browser, not the app) and click the blue **cjs** button in the top right corner. Then paste the following script in the textarea:
-
-```js
-var s = setInterval(function() {
-  if (typeof $ === 'undefined') return;
-  clearInterval(s);
-  $.getScript('https://s3.eu-central-1.amazonaws.com/ghg-tools/ghg-edje/wrike-edje.js');
-},100)
-```
-
-Press **save**.
-
-Done! You should now see an 'Add creative' button to every task in Wrike. In order to integrate LemonPI bannersets, please also install the [Manage Manager](https://meh.greenhousegroup.com/#manage-manager).
+You can only use Edje through Wrike. Please add the [Greenhouse Chrome Extension](https://chrome.google.com/webstore/detail/greenhouse/iiamfogljhmfpcaalfblodljjnnhkkem) and enable the Edje and Manage Manager plugins.
 
 ## <a name="hostifier"></a>[Hostifier](https://hostifier.meh.greenhousegroup.com)
 
 Web app for hosting static assets on cdn.greenhousegroup.com
 
-## <a name="richifier"></a>[Richifier](https://ghg-richifier-live.herokuapp.com/)
+## <a name="richifier"></a>[Richifier](https://richifier.meh.greenhousegroup.com/)
 
 This will add the chosen rich media template to your LemonPI Studio creative zip, which makes it compatible to upload to Weborama.
 
-## <a name="staticifier"></a>[Staticifier](https://ghg-staticifier-live.herokuapp.com/)
+## <a name="staticifier"></a>[Staticifier](https://staticifier.meh.greenhousegroup.com/)
 
 When using LemonPI to export creatives to a DSP is not an option, you can use the Staticifier to strip all Greenhouse Group related dependencies from a LemonPI Studio creative zip. This makes it suitable to deliver creatives to agencies that want to serve these without LemonPI.
 
-## <a name="scalifier"></a>[Scalifier](https://ch-scalifier.herokuapp.com/)
+## <a name="scalifier"></a>[Scalifier](https://scalifier.meh.greenhousegroup.com/)
 
 The Scalifier allows for super-fast resizing of creatives. Even though it sounds like a minor task, it actually circumvents many mundane manual steps which quickly add up in hours.
 
@@ -62,11 +54,11 @@ The Scalifier allows for super-fast resizing of creatives. Even though it sounds
 
 The Cicktrackifier enables a clicktracker per size in LemonPI Manage.
 
-## <a name="lemonpifeedimporter"></a>[LemonPI Feed Importer](https://ghg-lemonpi-feed-import-live.herokuapp.com)
+## <a name="lemonpifeedimporter"></a>[LemonPI Feed Importer](https://lemonpi-feed-importer.meh.greenhousegroup.com/)
 
 Use your LemonPI account to import product feeds, and use them as a Smart Pixel Dynamic Input.
 
-## <a name="dooh-ifier"></a>[DOOH-ifier](https://ch-doohifier.herokuapp.com/)
+## <a name="dooh-ifier"></a>[DOOH-ifier](https://doohifier.meh.greenhousegroup.com/)
 
 DOOH-ifier is a webapp for Creative Hub to make initialised LemonPI Studio-creatives for DOOH from the required screen specifications.
 
@@ -96,17 +88,9 @@ Adds some improvements on top of LemonPI Manage, like cloning a dynamic input.
 
 ### How to use
 
-To use the Manage Manager, you need to install [CJS for Chrome](https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija) first. Afterwards, visit manage.lemonpi.io and click the blue **cjs** button in the top right corner. Then paste the following script in the textarea:
+Add the [Greenhouse Chrome Extension](https://chrome.google.com/webstore/detail/greenhouse/iiamfogljhmfpcaalfblodljjnnhkkem) and enable the Manage Manager plugin.
 
-```js
-var e=document.createElement('script');e.src='https://cdn.greenhousegroup.com/ghg-nl/manage-manager/script.js',document.body.appendChild(e);
-```
-
-Press **save**.
-
-Done!
-
-## <a name="mobilewall"></a>[Mobile Wall](https://bit.ly/bmiwall2)
+## <a name="mobilewall"></a>[Mobile Wall](http://mobile-wall.meh.greenhousegroup.com/)
 
 Quickly open URLs on other devices by using the Mobile Wall.
 
